@@ -23,9 +23,12 @@ Repo ini berisikan langkah2 tentang Odoo
 3. Pilih __Reports__ (dibawah sub menu Action)
 4. Ketikkan pada kolom search, nama dari nota yang mau diubah. Misal ketikkan nota  ![nota](./src/image/teknikal-002.png)
 5. Maka dibagian bawahnya akan muncul Nota SO ( sesuai contoh ), kemudian klik pada Nota SO tersebut
-6. Setelah diklik maka akan muncul tombol dibagian kanan form tersebut bertuliskan QWeb Views. __Klik QWeb Views__.
-7. Setelah itu klik pada __nota_so_reports_template__
-8. Untuk mengubah tinggal klik __Edit__, setelah itu di bagian __Architecture__, cari yang mau diubah, misal footer dari nota tersebut akan diubah sesuai keinginan.
+6. Setelah diklik maka akan muncul tombol dibagian kanan form tersebut bertuliskan QWeb Views. __Klik QWeb Views__.  ![nota](./src/image/teknikal-003.png)
+7. Setelah itu klik pada __nota_so_reports_template__  ![nota](./src/image/teknikal-004.png)
+8. Untuk mengubah tinggal klik __Edit__, setelah itu di bagian __Architecture__, cari yang mau diubah, misal footer dari nota tersebut akan diubah sesuai keinginan.  
+![nota](./src/image/teknikal-005.png)
+Misal yang ingin diubah adalah footer  
+![nota](./src/image/teknikal-006.png)
 9. Jika sudah tinggal Save dan coba refresh.
 
 ### Settingan kertas
