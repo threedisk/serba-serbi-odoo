@@ -2,10 +2,10 @@
 Repo ini berisikan langkah2 tentang Odoo
 
 ## Daftar Isi
-* [Setting Warehouse](#setting warehouse)
+* [Setting Warehouse](#setting-warehouse)
 * setting printer
 
-### Menambahkan atau men-setting warehouse {#setting-warehouse}
+### Setting Warehouse
 1. Masuk ke Inventory.  
 ![inventory](/src/image/odoo-001.jpg)
 2. Masuk ke Menu Configuration (yang ditandai nomer 2)  
