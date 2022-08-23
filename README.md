@@ -28,7 +28,7 @@ Repo ini berisikan langkah2 tentang Odoo
 7. Setelah itu klik pada __nota_so_reports_template__  
 ![nota](./src/image/teknikal-004.png)
 8. Untuk mengubah tinggal klik __Edit__, setelah itu di bagian __Architecture__, cari yang mau diubah, misal footer dari nota tersebut akan diubah sesuai keinginan.  
-![nota](./src/image/teknikal-005.png)
+![nota](./src/image/teknikal-005.png)  
 Misal yang ingin diubah adalah footer  
 ![nota](./src/image/teknikal-006.png)
 9. Jika sudah tinggal Save dan coba refresh.
